@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T15:58:49Z" name="Suite" finished-at="2023-06-14T15:59:53Z" duration-ms="64141">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T15:58:49Z" name="Test" finished-at="2023-06-14T15:59:53Z" duration-ms="64141">
+      <class name="com.tutorialsninja.qa.testcases.SearchPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:06Z" name="setup" finished-at="2023-06-14T21:29:08Z" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithValidProduct()[pri:1, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:08Z" name="SearchWithValidProduct" finished-at="2023-06-14T21:29:09Z" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:09Z" name="tearDown" finished-at="2023-06-14T21:29:09Z" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:19Z" name="setup" finished-at="2023-06-14T21:29:22Z" duration-ms="2837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithInValidProduct()[pri:2, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:22Z" name="SearchWithInValidProduct" finished-at="2023-06-14T21:29:22Z" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithInValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:22Z" name="tearDown" finished-at="2023-06-14T21:29:23Z" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:32Z" name="setup" finished-at="2023-06-14T21:29:34Z" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchWithoutAnyProduct()[pri:3, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:34Z" name="SearchWithoutAnyProduct" finished-at="2023-06-14T21:29:35Z" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWithoutAnyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.SearchPageTest@35645047]" started-at="2023-06-14T21:29:35Z" name="tearDown" finished-at="2023-06-14T21:29:35Z" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.testcases.SearchPageTest -->
+      <class name="com.tutorialsninja.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:28:50Z" name="setup" finished-at="2023-06-14T21:28:55Z" duration-ms="5251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials(java.lang.String, java.lang.String)[pri:1, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:28:55Z" name="loginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-06-14T21:28:56Z" duration-ms="1022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[r@b.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:28:56Z" name="tearDown" finished-at="2023-06-14T21:28:57Z" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:28:57Z" name="setup" finished-at="2023-06-14T21:29:00Z" duration-ms="3624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials(java.lang.String, java.lang.String)[pri:1, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:00Z" name="loginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-06-14T21:29:01Z" duration-ms="870" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@test1.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:01Z" name="tearDown" finished-at="2023-06-14T21:29:01Z" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:01Z" name="setup" finished-at="2023-06-14T21:29:04Z" duration-ms="3080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials(java.lang.String, java.lang.String)[pri:1, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:04Z" name="loginWithValidCredentials" data-provider="validCredentialsSupplier" finished-at="2023-06-14T21:29:05Z" duration-ms="1005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@test2.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:05Z" name="tearDown" finished-at="2023-06-14T21:29:06Z" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:14Z" name="setup" finished-at="2023-06-14T21:29:18Z" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidCredentials()[pri:2, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:18Z" name="loginWithInvalidCredentials" finished-at="2023-06-14T21:29:19Z" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:19Z" name="tearDown" finished-at="2023-06-14T21:29:19Z" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:28Z" name="setup" finished-at="2023-06-14T21:29:31Z" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidEmailInvalidPassword()[pri:3, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:31Z" name="loginWithValidEmailInvalidPassword" finished-at="2023-06-14T21:29:32Z" duration-ms="897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:32Z" name="tearDown" finished-at="2023-06-14T21:29:32Z" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:40Z" name="setup" finished-at="2023-06-14T21:29:44Z" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidEmailValidPassword()[pri:4, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:44Z" name="loginWithInvalidEmailValidPassword" finished-at="2023-06-14T21:29:45Z" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidEmailValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:45Z" name="tearDown" finished-at="2023-06-14T21:29:45Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:49Z" name="setup" finished-at="2023-06-14T21:29:52Z" duration-ms="2958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithoutCredentials()[pri:5, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:52Z" name="loginWithoutCredentials" finished-at="2023-06-14T21:29:53Z" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.LoginPageTest@181e731e]" started-at="2023-06-14T21:29:53Z" name="tearDown" finished-at="2023-06-14T21:29:53Z" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.testcases.LoginPageTest -->
+      <class name="com.tutorialsninja.qa.testcases.RegisterPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:09Z" name="setup" finished-at="2023-06-14T21:29:12Z" duration-ms="3481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithMandatoryFields()[pri:1, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:12Z" name="registerWithMandatoryFields" finished-at="2023-06-14T21:29:14Z" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:14Z" name="tearDown" finished-at="2023-06-14T21:29:14Z" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:23Z" name="setup" finished-at="2023-06-14T21:29:26Z" duration-ms="3310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithAllFields()[pri:2, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:26Z" name="registerWithAllFields" finished-at="2023-06-14T21:29:28Z" duration-ms="1696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:28Z" name="tearDown" finished-at="2023-06-14T21:29:28Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:35Z" name="setup" finished-at="2023-06-14T21:29:39Z" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyResteringWithAlreadyExistingAccount()[pri:3, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:39Z" name="verifyResteringWithAlreadyExistingAccount" finished-at="2023-06-14T21:29:40Z" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResteringWithAlreadyExistingAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:40Z" name="tearDown" finished-at="2023-06-14T21:29:40Z" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:45Z" name="setup" finished-at="2023-06-14T21:29:49Z" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithoutInput()[pri:4, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:49Z" name="registerWithoutInput" finished-at="2023-06-14T21:29:49Z" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithoutInput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.RegisterPageTest@6f44a157]" started-at="2023-06-14T21:29:49Z" name="tearDown" finished-at="2023-06-14T21:29:49Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.testcases.RegisterPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
